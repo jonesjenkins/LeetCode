@@ -1,3 +1,12 @@
+/*
+Write a program that outputs the string representation of numbers from 1 to n.
+
+But for multiples of three it should output “Fizz” instead of the number and 
+for the multiples of five output “Buzz”. For numbers which are multiples of 
+both three and five output “FizzBuzz”.
+*/
+
+
 func fizzBuzz(n int) []string {
     a := make([]string, n)
     for i := 1; i <= n; i++ {
@@ -13,3 +22,14 @@ func fizzBuzz(n int) []string {
 	}
     return a
 }
+
+
+/*
+Output:
+	Your input:
+		10
+	Output:
+		["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz"]
+	Expected:
+		["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz"]
+*/
