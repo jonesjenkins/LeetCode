@@ -1,5 +1,5 @@
 # LeetCode Solutions
-These are solutions to problems from www.leetcode.com in a variety of languages
+These are my solutions to random problems from www.leetcode.com in a variety of languages
 
 Number | Title | Problem | Solution | Language
 ------ | ----- | ------- | -------- | --------
