@@ -1,0 +1,21 @@
+// Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+
+class Solution {
+    public int missingNumber(int[] nums) {
+        int sum = (nums.length * (nums.length + 1)) / 2;
+        for (int i = 0; i < nums.length; i ++) {
+            sum -= nums[i];
+        }
+        return sum;
+    }
+}
+
+/*
+Output:
+    Your input:
+        [3,0,1]
+    Output:
+        2
+    Expected:
+        2
+*/
