@@ -10,5 +10,6 @@ Number | Title | Problem | Solution | Language
 206 | Reverse Linked List | [Here](https://leetcode.com/problems/reverse-linked-list/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/206.%20Reverse%20Linked%20List%20(in%20Java)) | Java
 237 | Delete Node in a Linked List | [Here](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/237.%20Delete%20Node%20in%20a%20Linked%20List%20(in%20Java)) | Java
 268 | Missing Numbers | [Here](https://leetcode.com/problems/missing-number/) |[Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/268.%20Missing%20Number%20(in%20Java)) | Java
+286 | Move Zeroes | [Here](https://leetcode.com/problems/move-zeroes/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/283.%20Move%20Zeroes%20(in%20Go)) | Go
 344 | Reverse String | [Here](https://leetcode.com/problems/reverse-string/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/344.%20Reverse%20String%20(in%20Java)) | Java
 412 | Fizz Buzz | [Here](https://leetcode.com/problems/fizz-buzz/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/412.%20Fizz%20Buzz%20(in%20Go)) | Go
