@@ -13,3 +13,4 @@ Number | Title | Problem | Solution | Language
 286 | Move Zeroes | [Here](https://leetcode.com/problems/move-zeroes/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/283.%20Move%20Zeroes%20(in%20Go)) | Go
 344 | Reverse String | [Here](https://leetcode.com/problems/reverse-string/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/344.%20Reverse%20String%20(in%20Java)) | Java
 412 | Fizz Buzz | [Here](https://leetcode.com/problems/fizz-buzz/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/412.%20Fizz%20Buzz%20(in%20Go)) | Go
+1342 | Number of Steps to Reduce a Number to Zero | [Here](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero%20(in%20Python)) | Python
