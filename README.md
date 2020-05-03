@@ -13,6 +13,7 @@ Number | Title | Problem | Solution | Language
 286 | Move Zeroes | [Here](https://leetcode.com/problems/move-zeroes/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/283.%20Move%20Zeroes%20(in%20Go)) | Go
 344 | Reverse String | [Here](https://leetcode.com/problems/reverse-string/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/344.%20Reverse%20String%20(in%20Java)) | Java
 412 | Fizz Buzz | [Here](https://leetcode.com/problems/fizz-buzz/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/412.%20Fizz%20Buzz%20(in%20Go)) | Go
+617 | Merge Two Binary Trees | [Here](https://leetcode.com/problems/merge-two-binary-trees/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/617.%20Merge%20Two%20Binary%20Trees) | Java
 771 | Jewels and Stones | [Here](https://leetcode.com/problems/jewels-and-stones/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/771.%20Jewels%20and%20Stones) | Python
 876 | Middle of the LinkedList | [Here](https://leetcode.com/problems/middle-of-the-linked-list/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/876.%20Middle%20of%20the%20Linked%20List) | Python
 1108 | Defanging an IP Address | [Here](https://leetcode.com/problems/defanging-an-ip-address/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/1108.%20Defanging%20an%20IP%20Address) | Python
