@@ -17,7 +17,7 @@ Number | Title | Problem | Solution | Language
 344 | Reverse String | [Here](https://leetcode.com/problems/reverse-string/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/344.%20Reverse%20String%20(in%20Java)) | Java
 412 | Fizz Buzz | [Here](https://leetcode.com/problems/fizz-buzz/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/412.%20Fizz%20Buzz%20(in%20Go)) | Go
 617 | Merge Two Binary Trees | [Here](https://leetcode.com/problems/merge-two-binary-trees/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/617.%20Merge%20Two%20Binary%20Trees%20(in%20Java)) | Java
-771 | Jewels and Stones | [Here](https://leetcode.com/problems/jewels-and-stones/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/771.%20Jewels%20and%20Stones) | Python
+771 | Jewels and Stones | [Here](https://leetcode.com/problems/jewels-and-stones/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/771.%20Jewels%20and%20Stones%20(in%20Python)) | Python
 876 | Middle of the LinkedList | [Here](https://leetcode.com/problems/middle-of-the-linked-list/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/876.%20Middle%20of%20the%20Linked%20List) | Python
 1108 | Defanging an IP Address | [Here](https://leetcode.com/problems/defanging-an-ip-address/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/1108.%20Defanging%20an%20IP%20Address) | Python
 1295 | Find Numbers with Even Number of Digits | [Here](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Here](https://github.com/jonesjenkins/LeetCode/blob/master/Solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits) | Python
